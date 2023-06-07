@@ -1,2 +1,5 @@
 # ignore dataset
 PhD.dataset.csv
+
+# ignore images
+*.png
